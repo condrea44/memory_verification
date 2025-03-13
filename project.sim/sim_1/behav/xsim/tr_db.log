@@ -1,0 +1,2 @@
+  CREATE_STREAM @0 {NAME:writeSeq T:Transactions SCOPE:uvm_test_top.env.agent.sequencer STREAM:606}
+  CREATE_STREAM @385000 {NAME:readSeq T:Transactions SCOPE:uvm_test_top.env.agent.sequencer STREAM:970}

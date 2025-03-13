@@ -1,0 +1,19 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/denis/Desktop/proiect/project/project.gen/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1741805932,verilog,,,,dist_mem_gen_0,,uvm,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_agent.sv,1741852688,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_driver.sv,1741851621,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_intf1.sv,1741808619,systemVerilog,C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_wrapper.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/tb.sv,C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_wrapper.sv,,$unit_dist_mem_gen_intf1_sv_2955909711;dist_mem_gen_intf1,,uvm,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_monitor.sv,1741853241,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_rw_sequence.sv,1741815980,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_seq_items1.sv,1741815223,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_wrapper.sv,1741807211,systemVerilog,,C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/tb.sv,,dist_mem_gen_wrapper,,uvm,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/environment.sv,1741852762,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/include_uri.sv,1741850040,verilog,,,C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_seq_items1.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_monitor.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_driver.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_agent.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/scoreboard.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/environment.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_rw_sequence.sv;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/rw_test.sv,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/rw_test.sv,1741853454,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/scoreboard.sv,1741853023,verilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,,,,,,,,,
+C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/tb.sv,1741849996,systemVerilog,,,C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh;C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/include_uri.sv,tb,,uvm,,,,,,
+C:/Xilinx/Vivado/2024.1/data/xsim/system_verilog/uvm_include/uvm_macros.svh,1716425796,verilog,,,,,,,,,,,,

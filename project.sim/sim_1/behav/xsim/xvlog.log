@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_intf1.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_wrapper.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_wrapper
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

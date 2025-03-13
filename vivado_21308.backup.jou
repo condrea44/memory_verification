@@ -1,0 +1,54 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Mar 13 09:08:18 2025
+# Process ID: 21308
+# Current directory: C:/Users/denis/Desktop/proiect/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2652 C:\Users\denis\Desktop\proiect\project\project.xpr
+# Log file: C:/Users/denis/Desktop/proiect/project/vivado.log
+# Journal file: C:/Users/denis/Desktop/proiect/project\vivado.jou
+# Running On        :Denisa
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) Ultra 7 155H
+# CPU Frequency     :2995 MHz
+# CPU Physical cores:16
+# CPU Logical cores :22
+# Host memory       :33945 MB
+# Swap memory       :2147 MB
+# Total Virtual     :36093 MB
+# Available Virtual :21833 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/denis/Desktop/proiect/project/project.xpr
+update_compile_order -fileset sources_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/tb.sv w ]
+add_files -fileset sim_1 C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/tb.sv
+update_compile_order -fileset sim_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/include_uri.sv w ]
+add_files -fileset sim_1 C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/include_uri.sv
+update_compile_order -fileset sim_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_agent.sv w ]
+add_files -fileset sim_1 C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_agent.sv
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/environment.sv w ]
+add_files -fileset sim_1 C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/environment.sv
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_monitor.sv w ]
+add_files -fileset sim_1 C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/dist_mem_gen_monitor.sv
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/scoreboard.sv w ]
+add_files -fileset sim_1 C:/Users/denis/Desktop/proiect/project/project.srcs/sim_1/new/scoreboard.sv
+launch_simulation
